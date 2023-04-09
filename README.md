@@ -5,7 +5,7 @@
 
 ---
 
-### :fire: My Stats :
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+Stats)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShumAhd&theme=gruvbox&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShumAhd&theme=gruvbox&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
