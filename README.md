@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=ShumAhd&color=green)
+![](https://komarev.com/ghpvc/?username=ShumAhd&label=PROFILE+VIEWS )
 
 
 
