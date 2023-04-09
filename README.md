@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300" height="150"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
@@ -9,3 +10,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumAhd&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShumAhd&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
