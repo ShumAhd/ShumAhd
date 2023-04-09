@@ -1,5 +1,3 @@
-<p align="center"> 
-  Click on the worm!
-</p>
-
-<a href=#>[<img src="danger_snake.svg">](https://user-images.githubusercontent.com/99810114/222665648-2a807fcf-d957-4d20-88e3-6baf1149d62b.jpg)</a>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://get.wallhere.com/photo/Louis-Coyle-fantasy-art-digital-art-ultra-wide-gradient-landscape-mountains-sunrise-illustration-birds-plants-trees-clouds-1942263.jpg)" width="100"/>
+</div>
