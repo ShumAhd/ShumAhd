@@ -12,9 +12,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShumAhd&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://github.com/ShumAhd/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShumAhd&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ShumAhd/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShumAhd&repo=convoychat" />
-</a>
